@@ -22,3 +22,16 @@ Developed endpoints for POST and GET on various resources.
 Technologies Used:
 - Backend: Django, Django REST Framework
 - Database: SQLite
+
+<h4>API view</h4>
+<img width="1552" alt="Screenshot 2024-07-17 at 6 03 47 p m" src="https://github.com/user-attachments/assets/7c57b74d-951d-4e06-a704-5433deb307aa">
+<img width="1552" alt="Screenshot 2024-07-17 at 6 04 10 p m" src="https://github.com/user-attachments/assets/b99948c1-73b6-4462-9b8c-6165147015a2">
+<img width="1552" alt="Screenshot 2024-07-17 at 6 04 25 p m" src="https://github.com/user-attachments/assets/f7ac4a00-cac6-47fd-b457-ceaab235a5d0">
+<img width="1552" alt="Screenshot 2024-07-17 at 6 04 41 p m" src="https://github.com/user-attachments/assets/df0bcb41-3085-472b-ba0c-d2a7b76830ab">
+<img width="1552" alt="Screenshot 2024-07-17 at 6 05 29 p m" src="https://github.com/user-attachments/assets/9acba79f-1b2a-423a-a04a-443664f6aa37">
+
+
+
+
+
+
