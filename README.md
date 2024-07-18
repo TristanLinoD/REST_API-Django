@@ -30,6 +30,9 @@ Technologies Used:
 <img width="1552" alt="Screenshot 2024-07-17 at 6 04 41 p m" src="https://github.com/user-attachments/assets/df0bcb41-3085-472b-ba0c-d2a7b76830ab">
 <img width="1552" alt="Screenshot 2024-07-17 at 6 05 29 p m" src="https://github.com/user-attachments/assets/9acba79f-1b2a-423a-a04a-443664f6aa37">
 
+<h4>Documentation with Swagger and Redoc</h4>
+<img width="1552" alt="Screenshot 2024-07-18 at 11 26 24 a m" src="https://github.com/user-attachments/assets/ce26cd49-75c8-4054-a8bd-fab8a9fafb40">
+<img width="1552" alt="Screenshot 2024-07-18 at 11 26 53 a m" src="https://github.com/user-attachments/assets/bdbecd8c-20db-4d51-b564-4c7e12030ec7">
 
 
 
